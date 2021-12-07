@@ -1,2 +1,2 @@
 # comercio
-Cervejaria
+Loja de bebidas
